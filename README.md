@@ -4,7 +4,7 @@
 主に台北捷運の板南線で運用されているC321型を再現したアドオンです。
 6両固定編成の組成が可能です。
 RTX・Vibrant Visualsに対応しています。
-
+![C321系のモデル画像](https://i.imgur.com/MYagbNx.png)
 ### 収録方向幕
 
 *   Mode1: 頂埔
@@ -44,4 +44,5 @@ RTX・Vibrant Visualsに対応しています。
 
 ---
 ##【Download】
-本リポジトリの Releases からダウンロードしてください。
+
+本リポジトリの [Releases](https://github.com/sinsiny/MTC_C321/releases/tag/Release) からダウンロードしてください。
